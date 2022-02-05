@@ -1,0 +1,9 @@
+.two-columns__paragraph {
+    font-style: normal;
+    padding-bottom: 30px;
+    margin: 0;
+}
+.two-columns__paragraph:last-of-type{
+    padding-bottom:0;
+  }
+
